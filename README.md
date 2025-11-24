@@ -1,6 +1,6 @@
 # DIO-Santander-CyberSec
 
-|Este é um repositório para documentação dos estudos práticos do curso de | Cibersegurança da DIO em parceria com o Santader.
+| Este é um repositório para documentação dos estudos práticos do curso de Cibersegurança da DIO em parceria com o Santader. |
 
 # Demonstração de Ataques Cibernéticos em Ambiente Controlado
 
@@ -16,8 +16,8 @@ Este projeto é **exclusivamente para fins educacionais e de pesquisa**. Todas a
 
 ## 📂 Estrutura do Repositório
 ```
-├── script.sh           # Script utilizado nos ataques
 ├── evidencias/         # Prints das execuções
+├── script.sh           # Script utilizado nos ataques
 ├── README.md           # Documentação do projeto
 ```
 
