@@ -1,0 +1,5 @@
+Este é um arquivo simulando dados confidenciais do alvo.
+
+
+
+
